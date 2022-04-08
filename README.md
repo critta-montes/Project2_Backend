@@ -1,4 +1,4 @@
-# MyGallery App
+# MyGallery App - Backend
 
 ## Project Description
 This application allows a user to login, search through the Art Institute of Chicago’s collection, and save their favorite pieces of artwork in a personal gallery. They can also see the galleries of other users.
